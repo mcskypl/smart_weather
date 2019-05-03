@@ -1,0 +1,20 @@
+.wrapper {
+    text-shadow: 0px 7px 12px #000000;
+
+    img {
+        //width: 25vw;
+        height: 16vh;
+        filter: contrast(50) drop-shadow(0px 0px 10px #000000);
+    }
+
+    h1 {
+        font-size: 3em;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 400;
+    }
+
+    h3 {
+        font-weight: 300;
+    }
+}
